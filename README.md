@@ -3,9 +3,7 @@
 
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Perseus)](https://github.com/Perseus-Ljf)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Perseus-Ljf&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Perseus-Ljf&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
